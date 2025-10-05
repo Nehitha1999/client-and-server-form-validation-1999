@@ -1,5 +1,5 @@
 body{
-    background:url("/picture/vs.jpg");
+    background:url("vs.jpg");
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .regform{
@@ -54,6 +54,7 @@ h1{
   cursor:pointer;
   
 }
+
 
 
 
